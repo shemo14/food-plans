@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cc4f6a48-0def-46e1-ba12-20ae7b526e45" name="waseet" url="http://waset.aait-sa.com">
+        <fileTransfer host="waset.aait-sa.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f4ce223c-c258-4932-a858-028893812a8c" name="نجران" url="http://haraj-najran.com">
+        <fileTransfer host="haraj-najran.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="886be709-5571-481a-b499-5c0942763039" name="a7md 5lel" url="http://estsharat.aait-sa.com">
+        <fileTransfer host="estsharat.aait-sa.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="30c600e6-17d0-4007-bd1f-725eaa5294a7" name="server.aait-sa.com:2083" url="http://server.aait-sa.com">
+        <fileTransfer host="server.aait-sa.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="68af456d-ebd9-4c8b-a921-f2ccc68ce324" name="Wasela" url="http://waselatcom.com">
+        <fileTransfer host="waselatcom.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="883540e1-996d-46c7-981d-5787a1aaa3db" name="sha7n" url="http://shahn.aait-sa.com">
+        <fileTransfer host="shahn.aait-sa.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4bae4fb8-3ef6-4bf8-bafb-3edcd19b1b3d" name="mnsa t3lemya" url="http://noaman.arabsdesign.com">
+        <fileTransfer host="noaman.arabsdesign.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

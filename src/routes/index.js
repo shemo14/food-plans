@@ -1,5 +1,6 @@
 import { createStackNavigator, createAppContainer } from "react-navigation";
-import Home from '../components/Home';
+import Login from '../components/Login';
+import Register from '../components/Register';
 import LoginAndRegister from "../components/LoginAndRegister";
 
 const AppNavigator = createStackNavigator({
@@ -9,8 +10,14 @@ const AppNavigator = createStackNavigator({
             header: null
         }
     },
-    home: {
-        screen: Home,
+    login: {
+        screen: Login,
+        navigationOptions: {
+            header: null
+        }
+    },
+    register: {
+        screen: Register,
         navigationOptions: {
             header: null
         }
